@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mimaxavier
-- 👀 I’m interested in front end and back end developments.
+- 👀 I’m interested in front end and back end development.
 - 🌱 I’m currently learning PHP, HTML, CSS and Javascript, as well as frameworks in theses languages.
 - 💞️ I’m looking to collaborate on web developments projects.
 
